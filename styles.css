@@ -2,10 +2,12 @@
 body {
   background-color: powderblue;
   text-align: center;
-  font-family: 'Literata', serif;
+  font-family: 'Bungee Outline', cursive;
 }
 h1 {
-  color: blue;
+  color: black;
+  margin: 50px;
+  font-size: 58px;
 }
 p {
   color: red;
